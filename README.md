@@ -1,2 +1,2 @@
-# Autenticacion NodeJS PostgreSQL
+# Autenticación NodeJS PostgreSQL
 NodeJS PostgreSQL Passport Bcrypt
