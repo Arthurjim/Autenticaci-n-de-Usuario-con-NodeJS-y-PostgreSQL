@@ -1,2 +1,2 @@
-# Autenticación-de-Usuario-con-NodeJS-y-PostgreSQL
+# Autenticacion NodeJS PostgreSQL
 NodeJS PostgreSQL Passport Bcrypt
